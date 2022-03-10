@@ -1,8 +1,5 @@
-# TODO: Implement more efficient monotonic heuristic
-#
 # Every function receive coordinates of two grid points returns estimated distance between them.
 # Each argument is a tuple of two or three integer coordinates.
-# See file task.md for description of all grids.
 
 import math
 
